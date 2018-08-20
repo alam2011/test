@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534799871534,
+            "changeTime": 1534799871534,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534799871535,
+            "changeTime": 1534799871535,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534799871535,
+            "changeTime": 1534799871535,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534800760901,
+            "changeTime": 1534800760901,
+            "contentHash": "4a19557dc1b96c20dfa19772af36624f6913ae44"
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2",
+        {
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534799921105,
+            "changeTime": 1534799921105,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp\\testapp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp\\testapp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1534800760904,
+            "changeTime": 1534800760904,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp\\testapp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp\\testapp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1534800760907,
+            "changeTime": 1534800760907,
+            "contentHash": "908747a802002933cb751754eb75ab664d7790db"
+        }
+    ],
+    [
+        "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sialam\\Desktop\\Lightning_work\\Demo\\test2\\force-app\\main\\default\\aura\\testapp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534800760907,
+            "changeTime": 1534800760907,
+            "contentHash": "e645878794c00f245a9866b73b85a5c01e75ac3d"
+        }
+    ]
+]
